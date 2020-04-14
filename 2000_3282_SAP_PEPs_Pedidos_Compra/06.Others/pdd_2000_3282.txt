@@ -1,0 +1,41 @@
+1 - Inicialização 
+ 1. Criar ficheiro de auditabilidade
+ 2. Ler o ficheiro de Parâmetros
+
+2 - Aceder ao SAP
+ 1. Aceder à transaçao P27
+ 2. Inserir credenciais de acesso
+ 3. Selecionar CATS_DA e garantir que se acedeu a "Horários"
+
+3 - Inserir Dados SAP 
+ 1. Preencher campo "Período de Análise" com o mês pretendido
+ 2. Apagar o conteúdo predefinido ("10/40") do campo "Status de Processamento"
+ 3. No campo "Nº Pessoal" inserir os números do(s) trabalhadore(s) que se pretende:
+    Caso seja apenas um trabalhador, clicar no campo e inserir o respetivo número;
+    Se se tratar de um conjunto de colaboradores, clicar no ícone que abre a janela própria para o efeito
+    e inserir o conjunto dos números de colaboradores
+ 4. Garantir que o campo "Empresa" foi preenchido automaticamente 
+ 5. Selecionar "Executar"
+ 6. Aguardar que o relatório seja gerado
+ 7. Selecionar "Partilha Eletrónica" e guardar com o nome no seguinte formato: 
+    RELAT_HH_CATS_mês_ano.xlsx
+
+4 - Processar Excel 
+  1. Abrir ficheiro "RELAT_HH_CATS_mês_ano.xlsx"
+  2. Selecionar todo o conteúdo 
+  3. Construir uma pivot table com os seguintes campos: 
+     - nome; 
+     - nº de unidades; 
+     - elemento PEP receptor; 
+     - texto classificação contáveis
+     - retirar subtotais 
+  4. Construir segunda pivot table com: 
+     - nomes
+     - nº de unidades
+  5. Construir pivot table com: 
+     - ausências (retirar PEPs)
+  6. Retirar PEPS estatíticos, de investimentos e de prestação de serviços, preencher tabela com os valores
+     e aguardar que o gráfico seja automaticamente gerado
+
+  7. Guardar ficheiro final em formato .pfd.
+     

@@ -1,0 +1,353 @@
+﻿DateTime;UserName;Category;Log
+08-04-2020 09:38:32;EX99946;Information;Sucesso na inicialização do Robot
+08-04-2020 09:38:32;EX99946;Information;Obter Lista de Colaboradores
+08-04-2020 09:38:34;EX99946;Information;Iniciou o processamento do relatório HH_CATS
+08-04-2020 09:38:45;EX99946;Information;Ausencias: 545.5
+08-04-2020 09:38:45;EX99946;Information;Opex: 2018.1
+08-04-2020 09:38:45;EX99946;Information;Capex: 517
+08-04-2020 09:38:45;EX99946;Information;Serviços: 23
+08-04-2020 09:38:45;EX99946;Information;Total: 3103.6
+08-04-2020 09:38:45;EX99946;Information;GrandTotal: 2558.1
+08-04-2020 09:39:00;EX99946;Information;Gerou PDF a partir relatório com sucesso
+08-04-2020 09:39:00;EX99946;Information;Finaliza robot
+08-04-2020 09:40:43;EX99946;Information;Sucesso na inicialização do Robot
+08-04-2020 09:40:43;EX99946;Information;Obter Lista de Colaboradores
+08-04-2020 09:40:44;EX99946;Information;Iniciou o processamento do relatório HH_CATS
+08-04-2020 09:40:54;EX99946;Information;Ausencias: 0
+08-04-2020 09:40:54;EX99946;Information;Opex: 1822.9
+08-04-2020 09:40:54;EX99946;Information;Capex: 93.5
+08-04-2020 09:40:54;EX99946;Information;Serviços: 0
+08-04-2020 09:40:54;EX99946;Information;Total: 1916.4
+08-04-2020 09:40:54;EX99946;Information;GrandTotal: 1916.4
+08-04-2020 09:41:09;EX99946;Information;Gerou PDF a partir relatório com sucesso
+08-04-2020 09:41:09;EX99946;Information;Finaliza robot
+08-04-2020 09:48:41;EX99946;Information;Sucesso na inicialização do Robot
+08-04-2020 09:48:41;EX99946;Information;Obter Lista de Colaboradores
+08-04-2020 09:48:43;EX99946;Information;Iniciou o processamento do relatório HH_CATS
+08-04-2020 09:48:55;EX99946;Information;Ausencias: 0
+08-04-2020 09:48:55;EX99946;Information;Opex: 1822.9
+08-04-2020 09:48:55;EX99946;Information;Capex: 93.5
+08-04-2020 09:48:55;EX99946;Information;Serviços: 0
+08-04-2020 09:48:55;EX99946;Information;Total: 1916.4
+08-04-2020 09:48:55;EX99946;Information;GrandTotal: 1916.4
+08-04-2020 09:49:11;EX99946;Information;Gerou PDF a partir relatório com sucesso
+08-04-2020 09:49:11;EX99946;Information;Finaliza robot
+08-04-2020 09:54:35;EX99946;Information;Sucesso na inicialização do Robot
+08-04-2020 09:54:35;EX99946;Information;Obter Lista de Colaboradores
+08-04-2020 09:54:37;EX99946;Information;Iniciou o processamento do relatório HH_CATS
+08-04-2020 09:54:47;EX99946;Information;Ausencias: 545.5
+08-04-2020 09:54:47;EX99946;Information;Opex: 2018.1
+08-04-2020 09:54:47;EX99946;Information;Capex: 517
+08-04-2020 09:54:47;EX99946;Information;Serviços: 23
+08-04-2020 09:54:47;EX99946;Information;Total: 3103.6
+08-04-2020 09:54:47;EX99946;Information;GrandTotal: 2558.1
+08-04-2020 09:55:02;EX99946;Information;Gerou PDF a partir relatório com sucesso
+08-04-2020 09:55:03;EX99946;Information;Finaliza robot
+08-04-2020 12:06:28;EX99946;Information;Sucesso na inicialização do Robot
+08-04-2020 12:06:28;EX99946;Information;Obter Lista de Colaboradores
+08-04-2020 12:06:30;EX99946;Information;Iniciou o processamento do relatório HH_CATS
+08-04-2020 12:06:41;EX99946;Information;Ausencias: 545.5
+08-04-2020 12:06:41;EX99946;Information;Opex: 2018.1
+08-04-2020 12:06:41;EX99946;Information;Capex: 517
+08-04-2020 12:06:41;EX99946;Information;Serviços: 23
+08-04-2020 12:06:41;EX99946;Information;Total: 3103.6
+08-04-2020 12:06:41;EX99946;Information;GrandTotal: 2558.1
+08-04-2020 12:07:08;EX99946;Information;Gerou PDF a partir relatório com sucesso
+08-04-2020 12:07:08;EX99946;Information;Finaliza robot
+08-04-2020 12:15:45;EX99946;Information;Sucesso na inicialização do Robot
+08-04-2020 12:15:46;EX99946;Information;Obter Lista de Colaboradores
+08-04-2020 12:15:47;EX99946;Information;Iniciou o processamento do relatório HH_CATS
+08-04-2020 12:15:58;EX99946;Information;Ausencias: 545.5
+08-04-2020 12:15:58;EX99946;Information;Opex: 2018.1
+08-04-2020 12:15:58;EX99946;Information;Capex: 517
+08-04-2020 12:15:58;EX99946;Information;Serviços: 23
+08-04-2020 12:15:58;EX99946;Information;Total: 3103.6
+08-04-2020 12:15:58;EX99946;Information;GrandTotal: 2558.1
+08-04-2020 12:16:24;EX99946;Information;Gerou PDF a partir relatório com sucesso
+08-04-2020 12:16:24;EX99946;Information;Finaliza robot
+08-04-2020 13:39:44;EX99946;Information;Sucesso na inicialização do Robot
+08-04-2020 13:39:44;EX99946;Information;Obter Lista de Colaboradores
+08-04-2020 13:39:46;EX99946;Information;Iniciou o processamento do relatório HH_CATS
+08-04-2020 13:39:58;EX99946;Information;Ausencias: 545.5
+08-04-2020 13:39:58;EX99946;Information;Opex: 2018.1
+08-04-2020 13:39:58;EX99946;Information;Capex: 517
+08-04-2020 13:39:58;EX99946;Information;Serviços: 23
+08-04-2020 13:39:58;EX99946;Information;Total: 3103.6
+08-04-2020 13:39:58;EX99946;Information;GrandTotal: 2558.1
+08-04-2020 13:40:21;EX99946;Information;Gerou PDF a partir relatório com sucesso
+08-04-2020 13:40:21;EX99946;Information;Finaliza robot
+08-04-2020 13:52:20;EX99946;Information;Sucesso na inicialização do Robot
+08-04-2020 13:52:20;EX99946;Information;Obter Lista de Colaboradores
+08-04-2020 13:52:22;EX99946;Information;Iniciou o processamento do relatório HH_CATS
+08-04-2020 13:52:35;EX99946;Information;Ausencias: 0
+08-04-2020 13:52:35;EX99946;Information;Opex: 1739
+08-04-2020 13:52:35;EX99946;Information;Capex: 159.5
+08-04-2020 13:52:35;EX99946;Information;Serviços: 0
+08-04-2020 13:52:35;EX99946;Information;Total: 1898.5
+08-04-2020 13:52:35;EX99946;Information;GrandTotal: 1898.5
+08-04-2020 13:52:59;EX99946;Information;Gerou PDF a partir relatório com sucesso
+08-04-2020 13:52:59;EX99946;Information;Finaliza robot
+08-04-2020 13:59:51;EX99946;Information;Sucesso na inicialização do Robot
+08-04-2020 13:59:51;EX99946;Information;Obter Lista de Colaboradores
+08-04-2020 13:59:53;EX99946;Information;Iniciou o processamento do relatório HH_CATS
+08-04-2020 14:00:05;EX99946;Information;Ausencias: 0
+08-04-2020 14:00:05;EX99946;Information;Opex: 1822.9
+08-04-2020 14:00:05;EX99946;Information;Capex: 93.5
+08-04-2020 14:00:05;EX99946;Information;Serviços: 0
+08-04-2020 14:00:05;EX99946;Information;Total: 1916.4
+08-04-2020 14:00:05;EX99946;Information;GrandTotal: 1916.4
+08-04-2020 14:00:29;EX99946;Information;Gerou PDF a partir relatório com sucesso
+08-04-2020 14:00:29;EX99946;Information;Finaliza robot
+08-04-2020 14:21:27;EX99946;Information;Sucesso na inicialização do Robot
+08-04-2020 14:21:27;EX99946;Information;Obter Lista de Colaboradores
+08-04-2020 14:21:29;EX99946;Information;Iniciou o processamento do relatório HH_CATS
+08-04-2020 14:21:41;EX99946;Information;Ausencias: 0
+08-04-2020 14:21:41;EX99946;Information;Opex: 1822.9
+08-04-2020 14:21:41;EX99946;Information;Capex: 93.5
+08-04-2020 14:21:41;EX99946;Information;Serviços: 0
+08-04-2020 14:21:41;EX99946;Information;Total: 1916.4
+08-04-2020 14:21:41;EX99946;Information;GrandTotal: 1916.4
+08-04-2020 14:22:04;EX99946;Information;Gerou PDF a partir relatório com sucesso
+08-04-2020 14:22:04;EX99946;Information;Finaliza robot
+08-04-2020 15:24:14;EX99946;Information;Sucesso na inicialização do Robot
+08-04-2020 15:24:14;EX99946;Information;Obter Lista de Colaboradores
+08-04-2020 15:24:16;EX99946;Information;Iniciou o processamento do relatório HH_CATS
+08-04-2020 15:24:28;EX99946;Information;Ausencias: 0
+08-04-2020 15:24:28;EX99946;Information;Opex: 2449.9
+08-04-2020 15:24:28;EX99946;Information;Capex: 351
+08-04-2020 15:24:28;EX99946;Information;Serviços: 0
+08-04-2020 15:24:28;EX99946;Information;Total: 2800.9
+08-04-2020 15:24:28;EX99946;Information;GrandTotal: 2800.9
+08-04-2020 15:24:51;EX99946;Information;Gerou PDF a partir relatório com sucesso
+08-04-2020 15:24:51;EX99946;Information;Finaliza robot
+08-04-2020 15:38:53;EX99946;Information;Sucesso na inicialização do Robot
+08-04-2020 15:38:53;EX99946;Information;Obter Lista de Colaboradores
+08-04-2020 15:38:55;EX99946;Information;Iniciou o processamento do relatório HH_CATS
+08-04-2020 15:39:05;EX99946;Information;Ausencias: 0
+08-04-2020 15:39:05;EX99946;Information;Opex: 2270.9
+08-04-2020 15:39:05;EX99946;Information;Capex: 323
+08-04-2020 15:39:05;EX99946;Information;Serviços: 0
+08-04-2020 15:39:05;EX99946;Information;Total: 2593.9
+08-04-2020 15:39:05;EX99946;Information;GrandTotal: 2593.9
+08-04-2020 15:39:31;EX99946;Information;Gerou PDF a partir relatório com sucesso
+08-04-2020 15:39:31;EX99946;Information;Finaliza robot
+08-04-2020 15:52:24;EX99946;Information;Sucesso na inicialização do Robot
+08-04-2020 15:52:24;EX99946;Information;Obter Lista de Colaboradores
+08-04-2020 15:52:26;EX99946;Information;Iniciou o processamento do relatório HH_CATS
+08-04-2020 15:52:38;EX99946;Information;Ausencias: 545.5
+08-04-2020 15:52:38;EX99946;Information;Opex: 2018.1
+08-04-2020 15:52:38;EX99946;Information;Capex: 517
+08-04-2020 15:52:38;EX99946;Information;Serviços: 23
+08-04-2020 15:52:38;EX99946;Information;Total: 3103.6
+08-04-2020 15:52:38;EX99946;Information;GrandTotal: 2558.1
+08-04-2020 15:53:02;EX99946;Information;Gerou PDF a partir relatório com sucesso
+08-04-2020 15:53:02;EX99946;Information;Finaliza robot
+08-04-2020 16:00:54;EX99946;Information;Sucesso na inicialização do Robot
+08-04-2020 16:00:54;EX99946;Information;Obter Lista de Colaboradores
+08-04-2020 16:00:56;EX99946;Information;Iniciou o processamento do relatório HH_CATS
+08-04-2020 16:01:06;EX99946;Information;Ausencias: 545.5
+08-04-2020 16:01:06;EX99946;Information;Opex: 2018.1
+08-04-2020 16:01:06;EX99946;Information;Capex: 517
+08-04-2020 16:01:06;EX99946;Information;Serviços: 23
+08-04-2020 16:01:06;EX99946;Information;Total: 3103.6
+08-04-2020 16:01:06;EX99946;Information;GrandTotal: 2558.1
+08-04-2020 16:01:31;EX99946;Information;Gerou PDF a partir relatório com sucesso
+08-04-2020 16:01:31;EX99946;Information;Finaliza robot
+08-04-2020 16:07:07;EX99946;Information;Sucesso na inicialização do Robot
+08-04-2020 16:07:07;EX99946;Information;Obter Lista de Colaboradores
+08-04-2020 16:07:08;EX99946;Information;Iniciou o processamento do relatório HH_CATS
+08-04-2020 16:07:18;EX99946;Information;Ausencias: 545.5
+08-04-2020 16:07:18;EX99946;Information;Opex: 2018.1
+08-04-2020 16:07:18;EX99946;Information;Capex: 517
+08-04-2020 16:07:19;EX99946;Information;Serviços: 23
+08-04-2020 16:07:19;EX99946;Information;Total: 3103.6
+08-04-2020 16:07:19;EX99946;Information;GrandTotal: 2558.1
+08-04-2020 16:07:44;EX99946;Information;Gerou PDF a partir relatório com sucesso
+08-04-2020 16:07:44;EX99946;Information;Finaliza robot
+08-04-2020 16:10:29;EX99946;Information;Sucesso na inicialização do Robot
+08-04-2020 16:10:29;EX99946;Information;Obter Lista de Colaboradores
+08-04-2020 16:10:30;EX99946;Information;Iniciou o processamento do relatório HH_CATS
+08-04-2020 16:10:40;EX99946;Information;Ausencias: 0
+08-04-2020 16:10:40;EX99946;Information;Opex: 1739
+08-04-2020 16:10:40;EX99946;Information;Capex: 159.5
+08-04-2020 16:10:40;EX99946;Information;Serviços: 0
+08-04-2020 16:10:40;EX99946;Information;Total: 1898.5
+08-04-2020 16:10:40;EX99946;Information;GrandTotal: 1898.5
+08-04-2020 16:11:06;EX99946;Information;Gerou PDF a partir relatório com sucesso
+08-04-2020 16:11:06;EX99946;Information;Finaliza robot
+08-04-2020 16:17:24;EX99946;Information;Sucesso na inicialização do Robot
+08-04-2020 16:17:24;EX99946;Information;Obter Lista de Colaboradores
+08-04-2020 16:17:25;EX99946;Information;Iniciou o processamento do relatório HH_CATS
+08-04-2020 16:17:36;EX99946;Information;Ausencias: 0
+08-04-2020 16:17:36;EX99946;Information;Opex: 2058.5
+08-04-2020 16:17:36;EX99946;Information;Capex: 354.5
+08-04-2020 16:17:36;EX99946;Information;Serviços: 0
+08-04-2020 16:17:36;EX99946;Information;Total: 2413
+08-04-2020 16:17:36;EX99946;Information;GrandTotal: 2413
+08-04-2020 16:18:01;EX99946;Information;Gerou PDF a partir relatório com sucesso
+08-04-2020 16:18:01;EX99946;Information;Finaliza robot
+08-04-2020 16:29:45;EX99946;Information;Sucesso na inicialização do Robot
+08-04-2020 16:29:45;EX99946;Information;Obter Lista de Colaboradores
+08-04-2020 16:29:46;EX99946;Information;Iniciou o processamento do relatório HH_CATS
+08-04-2020 16:29:56;EX99946;Information;Ausencias: 0
+08-04-2020 16:29:56;EX99946;Information;Opex: 2058.5
+08-04-2020 16:29:56;EX99946;Information;Capex: 354.5
+08-04-2020 16:29:56;EX99946;Information;Serviços: 0
+08-04-2020 16:29:56;EX99946;Information;Total: 2413
+08-04-2020 16:29:56;EX99946;Information;GrandTotal: 2413
+08-04-2020 16:30:22;EX99946;Information;Gerou PDF a partir relatório com sucesso
+08-04-2020 16:30:22;EX99946;Information;Finaliza robot
+08-04-2020 16:39:39;EX99946;Information;Sucesso na inicialização do Robot
+08-04-2020 16:39:39;EX99946;Information;Obter Lista de Colaboradores
+08-04-2020 16:39:41;EX99946;Information;Iniciou o processamento do relatório HH_CATS
+08-04-2020 16:39:51;EX99946;Information;Ausencias: 0
+08-04-2020 16:39:51;EX99946;Information;Opex: 2270.9
+08-04-2020 16:39:51;EX99946;Information;Capex: 323
+08-04-2020 16:39:51;EX99946;Information;Serviços: 0
+08-04-2020 16:39:51;EX99946;Information;Total: 2593.9
+08-04-2020 16:39:51;EX99946;Information;GrandTotal: 2593.9
+08-04-2020 16:40:16;EX99946;Information;Gerou PDF a partir relatório com sucesso
+08-04-2020 16:40:16;EX99946;Information;Finaliza robot
+08-04-2020 16:49:49;EX99946;Information;Sucesso na inicialização do Robot
+08-04-2020 16:49:49;EX99946;Information;Obter Lista de Colaboradores
+08-04-2020 16:49:50;EX99946;Information;Iniciou o processamento do relatório HH_CATS
+08-04-2020 16:50:00;EX99946;Information;Ausencias: 0
+08-04-2020 16:50:00;EX99946;Information;Opex: 2449.9
+08-04-2020 16:50:00;EX99946;Information;Capex: 351
+08-04-2020 16:50:00;EX99946;Information;Serviços: 0
+08-04-2020 16:50:00;EX99946;Information;Total: 2800.9
+08-04-2020 16:50:00;EX99946;Information;GrandTotal: 2800.9
+08-04-2020 16:50:26;EX99946;Information;Gerou PDF a partir relatório com sucesso
+08-04-2020 16:50:26;EX99946;Information;Finaliza robot
+08-04-2020 16:54:52;EX99946;Information;Sucesso na inicialização do Robot
+08-04-2020 16:54:52;EX99946;Information;Obter Lista de Colaboradores
+08-04-2020 16:54:54;EX99946;Information;Iniciou o processamento do relatório HH_CATS
+08-04-2020 16:55:04;EX99946;Information;Ausencias: 545.5
+08-04-2020 16:55:04;EX99946;Information;Opex: 2018.1
+08-04-2020 16:55:04;EX99946;Information;Capex: 517
+08-04-2020 16:55:04;EX99946;Information;Serviços: 23
+08-04-2020 16:55:04;EX99946;Information;Total: 3103.6
+08-04-2020 16:55:04;EX99946;Information;GrandTotal: 2558.1
+08-04-2020 16:55:30;EX99946;Information;Gerou PDF a partir relatório com sucesso
+08-04-2020 16:55:30;EX99946;Information;Finaliza robot
+08-04-2020 17:03:52;EX99946;Information;Sucesso na inicialização do Robot
+08-04-2020 17:03:52;EX99946;Information;Obter Lista de Colaboradores
+08-04-2020 17:03:54;EX99946;Information;Iniciou o processamento do relatório HH_CATS
+08-04-2020 17:04:04;EX99946;Information;Ausencias: 545.5
+08-04-2020 17:04:04;EX99946;Information;Opex: 2018.1
+08-04-2020 17:04:04;EX99946;Information;Capex: 517
+08-04-2020 17:04:04;EX99946;Information;Serviços: 23
+08-04-2020 17:04:04;EX99946;Information;Total: 3103.6
+08-04-2020 17:04:04;EX99946;Information;GrandTotal: 2558.1
+08-04-2020 17:04:27;EX99946;Information;Gerou PDF a partir relatório com sucesso
+08-04-2020 17:04:27;EX99946;Information;Finaliza robot
+08-04-2020 17:11:36;EX99946;Information;Sucesso na inicialização do Robot
+08-04-2020 17:11:36;EX99946;Information;Obter Lista de Colaboradores
+08-04-2020 17:11:38;EX99946;Information;Iniciou o processamento do relatório HH_CATS
+08-04-2020 17:11:51;EX99946;Information;Ausencias: 0
+08-04-2020 17:11:51;EX99946;Information;Opex: 2058.5
+08-04-2020 17:11:51;EX99946;Information;Capex: 354.5
+08-04-2020 17:11:51;EX99946;Information;Serviços: 0
+08-04-2020 17:11:51;EX99946;Information;Total: 2413
+08-04-2020 17:11:51;EX99946;Information;GrandTotal: 2413
+08-04-2020 17:12:17;EX99946;Information;Gerou PDF a partir relatório com sucesso
+08-04-2020 17:12:17;EX99946;Information;Finaliza robot
+08-04-2020 17:17:12;EX99946;Information;Sucesso na inicialização do Robot
+08-04-2020 17:17:12;EX99946;Information;Obter Lista de Colaboradores
+08-04-2020 17:17:14;EX99946;Information;Iniciou o processamento do relatório HH_CATS
+08-04-2020 17:17:27;EX99946;Information;Ausencias: 0
+08-04-2020 17:17:27;EX99946;Information;Opex: 2449.9
+08-04-2020 17:17:27;EX99946;Information;Capex: 351
+08-04-2020 17:17:27;EX99946;Information;Serviços: 0
+08-04-2020 17:17:27;EX99946;Information;Total: 2800.9
+08-04-2020 17:17:27;EX99946;Information;GrandTotal: 2800.9
+08-04-2020 17:17:52;EX99946;Information;Gerou PDF a partir relatório com sucesso
+08-04-2020 17:17:52;EX99946;Information;Finaliza robot
+08-04-2020 17:36:00;EX99946;Information;Sucesso na inicialização do Robot
+08-04-2020 17:36:00;EX99946;Information;Obter Lista de Colaboradores
+08-04-2020 17:36:01;EX99946;Information;Iniciou o processamento do relatório HH_CATS
+08-04-2020 17:36:12;EX99946;Information;Ausencias: 545.5
+08-04-2020 17:36:12;EX99946;Information;Opex: 2018.1
+08-04-2020 17:36:12;EX99946;Information;Capex: 517
+08-04-2020 17:36:12;EX99946;Information;Serviços: 23
+08-04-2020 17:36:12;EX99946;Information;Total: 3103.6
+08-04-2020 17:36:12;EX99946;Information;GrandTotal: 2558.1
+08-04-2020 17:36:38;EX99946;Information;Gerou PDF a partir relatório com sucesso
+08-04-2020 17:36:38;EX99946;Information;Finaliza robot
+08-04-2020 19:09:10;EX99946;Information;Sucesso na inicialização do Robot
+08-04-2020 19:09:10;EX99946;Information;Obter Lista de Colaboradores
+08-04-2020 19:09:11;EX99946;Information;Iniciou o processamento do relatório HH_CATS
+08-04-2020 19:09:25;EX99946;Information;Ausencias: 545.5
+08-04-2020 19:09:25;EX99946;Information;Opex: 2018.1
+08-04-2020 19:09:25;EX99946;Information;Capex: 517
+08-04-2020 19:09:25;EX99946;Information;Serviços: 23
+08-04-2020 19:09:25;EX99946;Information;Total: 3103.6
+08-04-2020 19:09:25;EX99946;Information;GrandTotal: 2558.1
+08-04-2020 19:09:51;EX99946;Information;Gerou PDF a partir relatório com sucesso
+08-04-2020 19:09:51;EX99946;Information;Finaliza robot
+08-04-2020 19:13:10;EX99946;Information;Sucesso na inicialização do Robot
+08-04-2020 19:13:10;EX99946;Information;Obter Lista de Colaboradores
+08-04-2020 19:13:12;EX99946;Information;Iniciou o processamento do relatório HH_CATS
+08-04-2020 19:13:25;EX99946;Information;Ausencias: 545.5
+08-04-2020 19:13:25;EX99946;Information;Opex: 2018.1
+08-04-2020 19:13:25;EX99946;Information;Capex: 517
+08-04-2020 19:13:25;EX99946;Information;Serviços: 23
+08-04-2020 19:13:25;EX99946;Information;Total: 3103.6
+08-04-2020 19:13:25;EX99946;Information;GrandTotal: 2558.1
+08-04-2020 19:13:48;EX99946;Information;Gerou PDF a partir relatório com sucesso
+08-04-2020 19:13:48;EX99946;Information;Finaliza robot
+08-04-2020 19:20:04;EX99946;Information;Sucesso na inicialização do Robot
+08-04-2020 19:20:04;EX99946;Information;Obter Lista de Colaboradores
+08-04-2020 19:20:05;EX99946;Information;Iniciou o processamento do relatório HH_CATS
+08-04-2020 19:20:17;EX99946;Information;Ausencias: 545.5
+08-04-2020 19:20:17;EX99946;Information;Opex: 2018.1
+08-04-2020 19:20:17;EX99946;Information;Capex: 517
+08-04-2020 19:20:17;EX99946;Information;Serviços: 23
+08-04-2020 19:20:17;EX99946;Information;Total: 3103.6
+08-04-2020 19:20:17;EX99946;Information;GrandTotal: 2558.1
+08-04-2020 19:20:41;EX99946;Information;Gerou PDF a partir relatório com sucesso
+08-04-2020 19:20:41;EX99946;Information;Finaliza robot
+08-04-2020 19:26:36;EX99946;Information;Sucesso na inicialização do Robot
+08-04-2020 19:26:36;EX99946;Information;Obter Lista de Colaboradores
+08-04-2020 19:26:38;EX99946;Information;Iniciou o processamento do relatório HH_CATS
+08-04-2020 19:26:51;EX99946;Information;Ausencias: 545.5
+08-04-2020 19:26:51;EX99946;Information;Opex: 2018.1
+08-04-2020 19:26:51;EX99946;Information;Capex: 517
+08-04-2020 19:26:51;EX99946;Information;Serviços: 23
+08-04-2020 19:26:51;EX99946;Information;Total: 3103.6
+08-04-2020 19:26:51;EX99946;Information;GrandTotal: 2558.1
+08-04-2020 19:27:15;EX99946;Information;Gerou PDF a partir relatório com sucesso
+08-04-2020 19:27:15;EX99946;Information;Finaliza robot
+08-04-2020 19:30:05;EX99946;Information;Sucesso na inicialização do Robot
+08-04-2020 19:30:05;EX99946;Information;Obter Lista de Colaboradores
+08-04-2020 19:30:07;EX99946;Information;Iniciou o processamento do relatório HH_CATS
+08-04-2020 19:30:20;EX99946;Information;Ausencias: 0
+08-04-2020 19:30:20;EX99946;Information;Opex: 2058.5
+08-04-2020 19:30:20;EX99946;Information;Capex: 354.5
+08-04-2020 19:30:20;EX99946;Information;Serviços: 0
+08-04-2020 19:30:20;EX99946;Information;Total: 2413
+08-04-2020 19:30:20;EX99946;Information;GrandTotal: 2413
+08-04-2020 19:30:44;EX99946;Information;Gerou PDF a partir relatório com sucesso
+08-04-2020 19:30:44;EX99946;Information;Finaliza robot
+08-04-2020 19:33:12;EX99946;Information;Sucesso na inicialização do Robot
+08-04-2020 19:33:12;EX99946;Information;Obter Lista de Colaboradores
+08-04-2020 19:33:14;EX99946;Information;Iniciou o processamento do relatório HH_CATS
+08-04-2020 19:33:27;EX99946;Information;Ausencias: 0
+08-04-2020 19:33:27;EX99946;Information;Opex: 2449.9
+08-04-2020 19:33:27;EX99946;Information;Capex: 351
+08-04-2020 19:33:27;EX99946;Information;Serviços: 0
+08-04-2020 19:33:27;EX99946;Information;Total: 2800.9
+08-04-2020 19:33:27;EX99946;Information;GrandTotal: 2800.9
+08-04-2020 19:33:51;EX99946;Information;Gerou PDF a partir relatório com sucesso
+08-04-2020 19:33:51;EX99946;Information;Finaliza robot
+08-04-2020 19:35:47;EX99946;Information;Sucesso na inicialização do Robot
+08-04-2020 19:35:47;EX99946;Information;Obter Lista de Colaboradores
+08-04-2020 19:35:49;EX99946;Information;Iniciou o processamento do relatório HH_CATS
+08-04-2020 19:36:03;EX99946;Information;Ausencias: 0
+08-04-2020 19:36:03;EX99946;Information;Opex: 2449.9
+08-04-2020 19:36:03;EX99946;Information;Capex: 351
+08-04-2020 19:36:03;EX99946;Information;Serviços: 0
+08-04-2020 19:36:03;EX99946;Information;Total: 2800.9
+08-04-2020 19:36:03;EX99946;Information;GrandTotal: 2800.9
+08-04-2020 19:36:29;EX99946;Information;Gerou PDF a partir relatório com sucesso
+08-04-2020 19:36:29;EX99946;Information;Finaliza robot

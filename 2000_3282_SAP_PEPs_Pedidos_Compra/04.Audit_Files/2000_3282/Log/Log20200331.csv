@@ -1,0 +1,13 @@
+﻿DateTime;UserName;Category;Log
+31-03-2020 12:08:45;EX99946;Information;Sucesso na inicialização do Robot
+31-03-2020 12:08:45;EX99946;Information;Obter Lista de Colaboradores
+31-03-2020 12:08:47;EX99946;Information;Iniciou o processamento do relatório HH_CATS
+31-03-2020 12:08:55;EX99946;Error;Ocorreu um erro no módulo - Processar Relatório: File not found
+31-03-2020 12:12:44;EX99946;Information;Sucesso na inicialização do Robot
+31-03-2020 12:12:44;EX99946;Information;Obter Lista de Colaboradores
+31-03-2020 12:12:45;EX99946;Information;Iniciou o processamento do relatório HH_CATS
+31-03-2020 12:14:22;EX99946;Information;Sucesso na inicialização do Robot
+31-03-2020 12:14:22;EX99946;Information;Obter Lista de Colaboradores
+31-03-2020 12:14:24;EX99946;Information;Iniciou a extração do relatório de horas do SAP
+31-03-2020 12:15:28;EX99946;Information;Iniciou o processamento do relatório HH_CATS
+31-03-2020 12:15:58;EX99946;Information;Finaliza robot

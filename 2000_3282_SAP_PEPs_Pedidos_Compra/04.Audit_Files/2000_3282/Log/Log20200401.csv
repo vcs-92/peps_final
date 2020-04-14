@@ -1,0 +1,27 @@
+﻿DateTime;UserName;Category;Log
+01-04-2020 17:27:49;EX99946;Information;Sucesso na inicialização do Robot
+01-04-2020 17:27:49;EX99946;Information;Obter Lista de Colaboradores
+01-04-2020 17:27:52;EX99946;Information;Iniciou a extração do relatório de horas do SAP - P27
+01-04-2020 17:31:43;EX99946;Information;Relatório HH_CATS extraído com sucesso
+01-04-2020 17:31:43;EX99946;Information;Iniciou o processamento do relatório HH_CATS
+01-04-2020 17:31:52;EX99946;Error;Ocorreu um erro no módulo - Processar Relatório HH_CATS: That name is already taken. Try a different one.
+01-04-2020 17:37:40;EX99946;Information;Sucesso na inicialização do Robot
+01-04-2020 17:37:40;EX99946;Information;Obter Lista de Colaboradores
+01-04-2020 17:37:43;EX99946;Information;Iniciou a extração do relatório de horas do SAP - P27
+01-04-2020 17:41:56;EX99946;Information;Sucesso na inicialização do Robot
+01-04-2020 17:41:56;EX99946;Information;Obter Lista de Colaboradores
+01-04-2020 17:41:59;EX99946;Information;Iniciou a extração do relatório de horas do SAP - P27
+01-04-2020 17:45:50;EX99946;Information;Relatório HH_CATS extraído com sucesso
+01-04-2020 17:45:50;EX99946;Information;Iniciou o processamento do relatório HH_CATS
+01-04-2020 17:45:58;EX99946;Error;Ocorreu um erro no módulo - Processar Relatório HH_CATS: That name is already taken. Try a different one.
+01-04-2020 17:47:31;EX99946;Information;Sucesso na inicialização do Robot
+01-04-2020 17:47:31;EX99946;Information;Obter Lista de Colaboradores
+01-04-2020 17:47:33;EX99946;Information;Iniciou o processamento do relatório HH_CATS
+01-04-2020 17:47:49;EX99946;Information;Finaliza robot
+01-04-2020 18:10:19;EX99946;Information;Sucesso na inicialização do Robot
+01-04-2020 18:10:19;EX99946;Information;Obter Lista de Colaboradores
+01-04-2020 18:10:21;EX99946;Information;Iniciou o processamento do relatório HH_CATS
+01-04-2020 18:12:07;EX99946;Information;Sucesso na inicialização do Robot
+01-04-2020 18:12:07;EX99946;Information;Obter Lista de Colaboradores
+01-04-2020 18:12:08;EX99946;Information;Iniciou o processamento do relatório HH_CATS
+01-04-2020 18:12:25;EX99946;Information;Finaliza robot
